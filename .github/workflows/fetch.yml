@@ -1,0 +1,26 @@
+name: fetch-yurinavi
+
+on:
+  schedule:
+    - cron: '50 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch feed
+        run: |
+          mkdir -p feed
+          curl -fsSL --max-time 30 -A "Mozilla/5.0" https://yurinavi.com/feed/ -o feed/yurinavi.xml
+          ls -l feed/
+      - name: Commit
+        run: |
+          git config user.name "yuri-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feed/yurinavi.xml
+          if git diff --staged --quiet; then echo "no change"; else git commit -m "update $(date -u +%F)"; git push; fi
