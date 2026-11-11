@@ -12,7 +12,7 @@
 	<atom:link href="https://yurinavi.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://yurinavi.com</link>
 	<description>百合漫画・アニメに関する情報をお届け</description>
-	<lastBuildDate>Mon, 09 Nov 2026 10:30:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2026 11:13:07 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
+		<title>中学生が無職のお姉さんを“飼う”――女子ふたりの秘密ごはん漫画「ヒモお姉さん、餌付け中。」WEBで連載開始</title>
+		<link>https://yurinavi.com/2026/11/10/himooneesan-start/</link>
+		
+		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 11:13:07 +0000</pubDate>
+				<category><![CDATA[百合漫画]]></category>
+		<category><![CDATA[くらげバンチ]]></category>
+		<category><![CDATA[ヒモお姉さん、餌付け中。]]></category>
+		<category><![CDATA[新連載]]></category>
+		<category><![CDATA[春露彗]]></category>
+		<guid isPermaLink="false">https://yurinavi.com/?p=115807</guid>
+
+					<description><![CDATA[新潮社が運営するWEBコミックサイト・くらげバンチにて、春露彗先生の新連載「ヒモお姉さん、餌付け中。」がスタートしました。]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>相性最悪な女子高生バディが怪異に挑む読み切り漫画「燕のあやかし画帳」WEBで公開</title>
 		<link>https://yurinavi.com/2026/11/09/tsubamenoayakashi-start/</link>
 		
@@ -214,24 +232,6 @@
 		<guid isPermaLink="false">http://yurinavi.com/?p=85554</guid>
 
 					<description><![CDATA[キルタイムの百合漫画がセールに！]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>心に傷を負った少女と、彼女に寄り添う少女の出会いを描く百合読み切り「APPLE」WEBで公開</title>
-		<link>https://yurinavi.com/2026/11/02/apple-yomikiri/</link>
-		
-		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
-		<pubDate>Mon, 02 Nov 2026 11:13:20 +0000</pubDate>
-				<category><![CDATA[百合漫画]]></category>
-		<category><![CDATA[APPLE]]></category>
-		<category><![CDATA[Ayster]]></category>
-		<category><![CDATA[一迅プラス]]></category>
-		<category><![CDATA[読み切り]]></category>
-		<guid isPermaLink="false">https://yurinavi.com/?p=115671</guid>
-
-					<description><![CDATA[一迅社が運営するWEBコミックサイト・一迅プラスにて、Ayster先生の百合読み切り「APPLE」が公開されました。]]></description>
 		
 		
 		
