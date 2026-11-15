@@ -12,7 +12,7 @@
 	<atom:link href="https://yurinavi.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://yurinavi.com</link>
 	<description>百合漫画・アニメに関する情報をお届け</description>
-	<lastBuildDate>Fri, 13 Nov 2026 10:03:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Nov 2026 11:05:03 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
+		<title>終末世界を冒険する少女ふたりのガールミーツガール「エデンの塔 ルルチカクーニャと塔の迷宮」WEBで第1話が公開中</title>
+		<link>https://yurinavi.com/2026/11/14/edennotou-start/</link>
+		
+		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
+		<pubDate>Sat, 14 Nov 2026 11:05:03 +0000</pubDate>
+				<category><![CDATA[百合漫画]]></category>
+		<category><![CDATA[matoba]]></category>
+		<category><![CDATA[エデンの塔 ルルチカクーニャと塔の迷宮]]></category>
+		<category><![CDATA[新連載]]></category>
+		<category><![CDATA[月刊少年ガンガン]]></category>
+		<guid isPermaLink="false">https://yurinavi.com/?p=115945</guid>
+
+					<description><![CDATA[月刊少年ガンガンにて連載中のmatoba先生の漫画「エデンの塔 ルルチカクーニャと塔の迷宮」の第1話がWEB上で公開されました。]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>【11/15まで】Amazon漫画週末セール開催。百合姫や芳文社などの百合漫画75タイトルが50%ポイント還元に</title>
 		<link>https://yurinavi.com/2026/11/13/1kindle/</link>
 		
@@ -222,25 +240,6 @@
 		<guid isPermaLink="false">https://yurinavi.com/?p=115740</guid>
 
 					<description><![CDATA[講談社が運営するWEBコミックサイト・コミックDAYSにて、羅川真里茂先生の新連載「是騒騒」がスタートしました。]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>添い寝から始まる社会人と高校生の年の差百合漫画「いばら姫とおやすみ。」コミカライズがWEBでスタート</title>
-		<link>https://yurinavi.com/2026/11/05/ibarahimeto-comic-start/</link>
-		
-		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
-		<pubDate>Thu, 05 Nov 2026 03:02:50 +0000</pubDate>
-				<category><![CDATA[百合漫画]]></category>
-		<category><![CDATA[いばら姫とおやすみ。]]></category>
-		<category><![CDATA[カドコミ]]></category>
-		<category><![CDATA[千野なこ]]></category>
-		<category><![CDATA[新連載]]></category>
-		<category><![CDATA[深水紅茶]]></category>
-		<guid isPermaLink="false">https://yurinavi.com/?p=115748</guid>
-
-					<description><![CDATA[KADOKAWAが運営するWEBコミックサイト・カドコミにて深水紅茶先生の百合小説「いばら姫とおやすみ。」のコミカライズ連載がスタートしました。]]></description>
 		
 		
 		
