@@ -12,7 +12,7 @@
 	<atom:link href="https://yurinavi.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://yurinavi.com</link>
 	<description>百合漫画・アニメに関する情報をお届け</description>
-	<lastBuildDate>Sat, 14 Nov 2026 11:05:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Nov 2026 04:43:50 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
+		<title>嬉しいのに怖くて消える、回避型の女性との関係を描いた読み切り漫画「回って避ける」WEBで公開</title>
+		<link>https://yurinavi.com/2026/11/15/mawattesakeru-yomikiri/</link>
+		
+		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
+		<pubDate>Sun, 15 Nov 2026 11:00:42 +0000</pubDate>
+				<category><![CDATA[百合漫画]]></category>
+		<category><![CDATA[Seasons]]></category>
+		<category><![CDATA[回って避ける]]></category>
+		<category><![CDATA[読み切り]]></category>
+		<category><![CDATA[路田行]]></category>
+		<guid isPermaLink="false">https://yurinavi.com/?p=116027</guid>
+
+					<description><![CDATA[文藝春秋が運営するWEBコミックサイト・Seasonsにて、路田行先生の読み切り漫画「回って避ける」が公開されました。]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>終末世界を冒険する少女ふたりのガールミーツガール「エデンの塔 ルルチカクーニャと塔の迷宮」WEBで第1話が公開中</title>
 		<link>https://yurinavi.com/2026/11/14/edennotou-start/</link>
 		
@@ -222,24 +240,6 @@
 		<guid isPermaLink="false">http://yurinavi.com/?p=13133</guid>
 
 					<description><![CDATA[双葉社の百合漫画がセールに！]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>大学生と謎の淑女の出会いを描く妖艶ガールミーツガール「是騒騒」WEBで連載スタート</title>
-		<link>https://yurinavi.com/2026/11/05/koresaisai-start/</link>
-		
-		<dc:creator><![CDATA[ふりっぺ]]></dc:creator>
-		<pubDate>Thu, 05 Nov 2026 11:00:42 +0000</pubDate>
-				<category><![CDATA[百合漫画]]></category>
-		<category><![CDATA[コミックDAYS]]></category>
-		<category><![CDATA[新連載]]></category>
-		<category><![CDATA[是騒騒]]></category>
-		<category><![CDATA[羅川真里茂]]></category>
-		<guid isPermaLink="false">https://yurinavi.com/?p=115740</guid>
-
-					<description><![CDATA[講談社が運営するWEBコミックサイト・コミックDAYSにて、羅川真里茂先生の新連載「是騒騒」がスタートしました。]]></description>
 		
 		
 		
